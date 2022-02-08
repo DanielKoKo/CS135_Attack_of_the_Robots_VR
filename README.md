@@ -5,7 +5,7 @@ A VR game where you fight robots to save your spaceship
 
 ## Project Description
 * This project is a VR game where you get to punch robots freely in an interactive outer-space environment. It uses the most up-to-date Oculus Touch controls and allows players to perform different actions when their hands are opened or closed in a fist shape. 
-> - Players can push robots with an open hand, and punch robots with closed fists.
+  - Players can push robots with an open hand, and punch robots with closed fists.
 * The game calculates velocity of punches and pushes based on how much force the player exerts, which is not only fun, but also an opportunity for exercise. 
 
 ## Demo Images
