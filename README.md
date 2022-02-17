@@ -16,4 +16,4 @@ A short Unity VR game where you fight robots to save your spaceship
 > ![image](https://user-images.githubusercontent.com/32584958/153065148-d22e1d3b-fdfd-461c-acbb-129d2cc0915e.png)
 
 ## Demo Video
-> ![pic](https://www.youtube.com/watch?v=Sr-xM1U75k4&feature=youtu.be)
+> [![pic](https://user-images.githubusercontent.com/32584958/154567409-7bdd9f16-dfe4-4a60-899f-e30266cc7a92.PNG)](https://www.youtube.com/watch?v=Sr-xM1U75k4)
